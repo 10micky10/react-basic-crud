@@ -1,0 +1,31 @@
+{
+  "users" : [
+    {
+      "dni" : "6412541",
+      "name" : "micky",
+      "lastName" : "Aguilar Paredes",
+      "birthday" : "2020-12-15"
+    },
+
+    {
+      "dni" : "6412541",
+      "name" : "gabriel",
+      "lastName" : "Aguilar Paredes",
+      "birthday" : "2020-12-15"
+    },
+
+    {
+      "dni" : "6412541",
+      "name" : "richard",
+      "lastName" : "Aguilar Paredes",
+      "birthday" : "2020-12-15"
+    },
+
+    {
+      "dni" : "6412541",
+      "name" : "charli",
+      "lastName" : "Aguilar Paredes",
+      "birthday" : "2020-12-15"
+    }
+  ]
+}

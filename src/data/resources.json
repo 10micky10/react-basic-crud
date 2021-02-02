@@ -1,0 +1,23 @@
+{
+    "resources" : [
+        {
+            "name" : "basketball room"
+        },
+
+        {
+            "name" : "volleyball room"
+        },
+
+        {
+            "name" : "soccer room"
+        },
+
+        {
+            "name" : "tennis room"
+        },
+
+        {
+            "name" : "athletics room"
+        }
+    ]
+}

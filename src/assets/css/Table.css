@@ -1,0 +1,38 @@
+table {
+  background-color: rgb(167, 167, 167);
+  width: 50%;
+  text-align: left;
+  border-collapse: collapse;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  box-shadow: 7px 13px 30px #000;
+}
+  
+th {
+  background-color: rgb(30, 30, 30);
+  color: rgb(255, 255, 255);
+  padding: 15px;
+  margin-bottom: auto;
+}
+  
+td {
+  padding: 15px;
+}
+  
+tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.781);
+}
+
+tr:hover {
+  background-color: rgb(117, 117, 117);
+  color: rgb(248, 248, 248);
+}
+
+.buttonsTable {
+  width: 100%;
+  background-color: #333;
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+  font-size: 15px;
+}

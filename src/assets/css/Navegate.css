@@ -1,0 +1,17 @@
+.Navegate {
+  background-color: rgb(30, 30, 30);
+  padding: 12px;
+}
+
+.Navegate a {
+  position: relative;
+  color: white;
+  padding: 12px 150px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: white;
+  color: black;
+  transition: 0.7s;
+}
